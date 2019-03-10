@@ -1,3 +1,4 @@
 ﻿today is perfect
 when the sunsite,we ate dinner
 pretty funny hard oneline reflog
+git reset HEAD filename
