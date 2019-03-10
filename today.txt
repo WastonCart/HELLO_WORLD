@@ -11,4 +11,15 @@ git branch
 git checkout master
 git merge dev
 git branch -d dev
+~          -D ~
+git log --graph
+git merge --no-ff -m "message" dev
+//封存
+git stash
+git stash apply
+git stash drop
+git stash pop
+git stash list
+//
+
 git config --global --unset http.proxy
