@@ -2,3 +2,10 @@
 when the sunsite,we ate dinner
 pretty funny hard oneline reflog
 git reset HEAD filename
+ssh-keygen -t rsa -C "mail address"
+git remote add origin https://github.com/WastonCart/HELLO_WORLD.git
+git push -u origin master
+git colne git@github:WastonCart/SimpleJ
+git checkout -b dev
+git branch
+git config --global --unset http.proxy
