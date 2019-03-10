@@ -8,4 +8,7 @@ git push -u origin master
 git colne git@github:WastonCart/SimpleJ
 git checkout -b dev
 git branch
+git checkout master
+git merge dev
+git branch -d dev
 git config --global --unset http.proxy
